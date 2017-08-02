@@ -2,6 +2,7 @@
 #pip install tweepy
 #fill out Secrets.py with your secrets
 #Provide a list.txt and fill it with user id not usernames
+#Still working on this but a friend was asking for the code 
 
 print '_______________________________________________________'
 print '|"""""""""""""""""""""""""""""""""""""""""""""""""""""|'
@@ -19,7 +20,7 @@ print '|""""""""""""""""""""|  \__| $$"""""""""""""""""""""""|'
 print '|"""""""""""""""""""""\$$    $$"""""""""""""""""""""""|'
 print '|""""""""""""""""""""""\$$$$$$""""""""""""""""""""""""|'
 print '|"""""""""""""""""""""""""""""""""""""""""""""""""""""|'
-print '|"""""""""""""Simple Twitter User Grabber"""""""""""""|'
+print '|"""""""""""""Simple"Twitter"Report"Bot"""""""""""""""|'
 print '|"""""""""""""""""""""""""""""""""""""""""""""""""""""|'
 print '|_____________________________________________________|'
 
